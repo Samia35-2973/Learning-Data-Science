@@ -1,5 +1,10 @@
 # Learning Data Science
 
+[![HitCount](http://hits.dwyl.com/Samia35-2973/Learning-Data-Science.svg)](http://hits.dwyl.com/Samia35-2973/Learning-Data-Science)
+[![GitHub stars](https://img.shields.io/github/stars/Samia35-2973/Learning-Data-Science.svg)](https://github.com/Samia35-2973/Learning-Data-Science/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Samia35-2973/Learning-Data-Science.svg)](https://github.com/Samia35-2973/Learning-Data-Science/network)
+[![GitHub license](https://img.shields.io/github/license/Samia35-2973/Learning-Data-Science.svg)](https://github.com/Samia35-2973/Learning-Data-Science/blob/main/LICENSE)
+
 Welcome to my data science learning journey! This repository serves as a collection of my code, notes, and projects as I dive into the world of data science from scratch.
 
 ## Table of Contents
