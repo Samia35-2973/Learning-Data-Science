@@ -1,0 +1,24 @@
+---
+title: "1.1 Outputs"
+output: html_notebook
+---
+
+# Outputs
+
+### Printing Something
+
+you can output code in R without using a print function. Use quotes for string.
+
+```{r}
+34
+344
+"Hello I am Tisha"
+```
+
+### print()
+
+We can use print() if we want. However, when your code is inside an R expression (e.g. inside curly braces {} like in the example above), use the print() function to output the result.
+
+```{r}
+print("I am learning R.")
+```
