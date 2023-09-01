@@ -1,59 +1,132 @@
-# Learning Data Science
+<h1 align="center">
+  <a href="https://github.com/Samia35-2973/Learning-Data-Science">
+    <!-- Please provide path to your logo here -->
+    <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
+  </a>
+</h1>
 
-[![HitCount](http://hits.dwyl.com/Samia35-2973/Learning-Data-Science.svg)](http://hits.dwyl.com/Samia35-2973/Learning-Data-Science)
-[![GitHub stars](https://img.shields.io/github/stars/Samia35-2973/Learning-Data-Science.svg)](https://github.com/Samia35-2973/Learning-Data-Science/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Samia35-2973/Learning-Data-Science.svg)](https://github.com/Samia35-2973/Learning-Data-Science/network)
-[![GitHub license](https://img.shields.io/github/license/Samia35-2973/Learning-Data-Science.svg)](https://github.com/Samia35-2973/Learning-Data-Science/blob/main/LICENSE)
+<div align="center">
+  Learning Data Science
+  <br />
+  <a href="#about"><strong>Explore the docs »</strong></a>
+  <br />
+  <br />
+  <a href="https://github.com/Samia35-2973/Learning-Data-Science/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  ·
+  <a href="https://github.com/Samia35-2973/Learning-Data-Science/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  .
+  <a href="https://github.com/Samia35-2973/Learning-Data-Science/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
+</div>
 
-Welcome to my data science learning journey! This repository serves as a collection of my code, notes, and projects as I dive into the world of data science from scratch.
+<div align="center">
+<br />
 
-## Table of Contents
+[![Project license](https://img.shields.io/github/license/Samia35-2973/Learning-Data-Science.svg?style=flat-square)](LICENSE)
 
-- [Introduction](#introduction)
+[![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/Samia35-2973/Learning-Data-Science/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+[![code with love by Samia35-2973](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-Samia35-2973-ff1414.svg?style=flat-square)](https://github.com/Samia35-2973)
+
+</div>
+
+<details open="open">
+<summary>Table of Contents</summary>
+
+- [About](#about)
+  - [Built With](#built-with)
 - [Getting Started](#getting-started)
-- [Learning Python](#learning-python)
-- [Projects](#projects)
-- [Resources](#resources)
-- [Contribution](#contribution)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Support](#support)
+- [Project assistance](#project-assistance)
+- [Contributing](#contributing)
+- [Authors & contributors](#authors--contributors)
 - [License](#license)
-- [Contact](#contact)
 
-## Introduction
+</details>
 
-In this repository, I'm documenting my learning process as I explore the various aspects of data science. From foundational concepts to advanced techniques, this journey is all about gaining a solid understanding of data manipulation, analysis, visualization, and machine learning.
+---
+
+## About
+
+> **[?]**
+> Provide general information about your project here.
+> What problem does it (intend to) solve?
+> What is the purpose of your project?
+> Why did you undertake it?
+> You don't have to answer all the questions -- just the ones relevant to your project.
+
+
+
+### Built With
+
+> **[?]**
+> Please provide the technologies that are used in the project.
 
 ## Getting Started
 
-To get started with this repository, you can clone it using the following command:
+### Prerequisites
 
-```bash
-git clone https://github.com/YourUsername/Learning-Data-Science.git
-```
+> **[?]**
+> What are the project requirements/dependencies?
 
-## Learning Python
+### Installation
 
-Folder: [Learning Python](/Learning%20Python)
+> **[?]**
+> Describe how to install and get started with the project.
 
-In this section, I'm focusing on mastering Python, a versatile programming language that's essential for data science. You'll find code snippets, exercises, and notes covering Python fundamentals.
+## Usage
 
-## Projects
+> **[?]**
+> How does one go about using it?
+> Provide various use cases and code examples here.
 
-Folder: [Projects](/Projects)
+## Roadmap
 
-In the projects section, I'll showcase my practical application of data science concepts. Each project will have its own subfolder containing code, data, and a detailed explanation of the problem-solving process and outcomes.
+See the [open issues](https://github.com/Samia35-2973/Learning-Data-Science/issues) for a list of proposed features (and known issues).
 
-## Resources
+- [Top Feature Requests](https://github.com/Samia35-2973/Learning-Data-Science/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Top Bugs](https://github.com/Samia35-2973/Learning-Data-Science/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Newest Bugs](https://github.com/Samia35-2973/Learning-Data-Science/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
-I'll maintain a list of valuable resources that have aided me in my learning journey. These could be online courses, tutorials, articles, and books that provide additional insights into the world of data science.
+## Support
 
-## Contribution
+> **[?]**
+> Provide additional ways to contact the project maintainer/maintainers.
 
-This repository is open to contributions from the community. If you spot any mistakes in my code or notes, or if you have suggestions for improvement, feel free to open an issue or submit a pull request. Let's learn together!
+Reach out to the maintainer at one of the following places:
+
+- [GitHub issues](https://github.com/Samia35-2973/Learning-Data-Science/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
+- Contact options listed on [this GitHub profile](https://github.com/Samia35-2973)
+
+## Project assistance
+
+If you want to say **thank you** or/and support active development of Learning Data Science:
+
+- Add a [GitHub Star](https://github.com/Samia35-2973/Learning-Data-Science) to the project.
+- Tweet about the Learning Data Science.
+- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
+
+Together, we can make Learning Data Science **better**!
+
+## Contributing
+
+First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
+
+
+Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
+
+## Authors & contributors
+
+The original setup of this repository is by [Samia Haque Tisha](https://github.com/Samia35-2973).
+
+For a full list of all authors and contributors, see [the contributors page](https://github.com/Samia35-2973/Learning-Data-Science/contributors).
+
 
 ## License
 
-This repository is licensed under the [MIT License](/LICENSE). Feel free to use the code and content for your own learning and projects. Attribution is appreciated but not required.
+This project is licensed under the **MIT license**.
 
-## Contact
+See [LICENSE](LICENSE) for more information.
 
-Feel free to connect with me! You can find me on [GitHub](https://github.com/Samia35-2973/) and [LinkedIn](https://www.linkedin.com/in/samia-haque-tisha-1596b51a7/). Let's learn and grow together in the exciting field of data science!
